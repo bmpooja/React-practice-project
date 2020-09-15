@@ -1,0 +1,25 @@
+body {
+  margin: 0 100px;
+  text-align: center;
+}
+.border{
+  border: 1px solid blue;
+    border-radius: 5px;
+    padding:15px;
+}
+
+main > h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.callout{
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  background-color: #C0FFFE;
+}
+img {
+  height: 250px;
+  width: 400px;
+}
